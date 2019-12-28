@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/BladeGen.cpp.o -c /Users/lukethayer/sources/BladeGen/src/BladeGen.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/BladeGen.cpp"
+},
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/EncoderHelpers.cpp.o -c /Users/lukethayer/sources/BladeGen/src/EncoderHelpers.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/EncoderHelpers.cpp"
+},
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/RGBtoHSV.cpp.o -c /Users/lukethayer/sources/BladeGen/src/RGBtoHSV.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/RGBtoHSV.cpp"
+},
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/lodepng.cpp.o -c /Users/lukethayer/sources/BladeGen/src/lodepng.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/lodepng.cpp"
+},
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/main.cpp.o -c /Users/lukethayer/sources/BladeGen/src/main.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/main.cpp"
+},
+{
+  "directory": "/Users/lukethayer/sources/BladeGen/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/lukethayer/sources/BladeGen/includes  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/run.dir/src/pngDrawTools.cpp.o -c /Users/lukethayer/sources/BladeGen/src/pngDrawTools.cpp",
+  "file": "/Users/lukethayer/sources/BladeGen/src/pngDrawTools.cpp"
+}
+]
