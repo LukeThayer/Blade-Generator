@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../includes/BladeGen.h
+pngDraw.h
+../includes/pngDraw.h
+
 ../includes/Interpolation.h
 stdint.h
 -
@@ -48,7 +52,7 @@ thread
 RGBtoHSV.h
 ../includes/RGBtoHSV.h
 
-/Users/lukethayer/sources/BladeGen/src/pngDrawTools.cpp
-pngDraw.h
--
+/Users/lukethayer/sources/BladeGen/src/BladeGen.cpp
+BladeGen.h
+/Users/lukethayer/sources/BladeGen/src/BladeGen.h
 

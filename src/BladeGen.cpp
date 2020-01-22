@@ -24,7 +24,7 @@ void BladeGenerator::initializeRange(float startXVar, float startYVar, float cha
 void BladeGenerator::generateSword(int seed)
 {
 
-    drawer.gradientLine(0, 0, 0, 100, Vector4{255, 0, 0, 255}, Vector4{0, 255, 0, 255});
+    drawer.gradientLine(0, 0, 0, 100, Vector4{100, 0, 0, 255}, Vector4{0, 200, 0, 255});
     srand(seed);
     generateBlade(seed);
     generateHilt(seed);

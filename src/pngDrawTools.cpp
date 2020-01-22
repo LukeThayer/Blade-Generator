@@ -120,14 +120,14 @@ void PNGDrawer::gradientLine(int32_t x1, int32_t x2, int32_t y1, int32_t y2, Vec
     {
         auto xn = normalizedLocation(x, x1, x2);
         auto yn = normalizedLocation(y, y1, y2);
-        auto d = (xn + yn);
+        auto d = sqrt((pow(xn, 2) + pow(yn, 2)));
         if (steep)
         {
-            drawPixel(y, x, color1.qlerp(d, 5, color2));
+            drawPixel(y, x, color1.qlerp(d, 10, color2));
         }
         else
         {
-            drawPixel(x, y, color1.qlerp(d, 5, color2));
+            drawPixel(x, y, color1.qlerp(d, 10, color2));
         }
 
         error -= dy;
