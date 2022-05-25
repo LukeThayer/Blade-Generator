@@ -7,30 +7,30 @@ CMakeFiles/run.dir/src/BladeGen.cpp.o
  ../includes/RGBtoHSV.h
  ../includes/lodepng.h
  ../includes/pngDraw.h
- /Users/lukethayer/sources/BladeGen/src/BladeGen.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/BladeGen.cpp
 CMakeFiles/run.dir/src/EncoderHelpers.cpp.o
  ../includes/Interpolation.h
  ../includes/RGBtoHSV.h
  ../includes/lodepng.h
  ../includes/pngDraw.h
- /Users/lukethayer/sources/BladeGen/src/EncoderHelpers.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/EncoderHelpers.cpp
 CMakeFiles/run.dir/src/RGBtoHSV.cpp.o
  ../includes/Interpolation.h
  ../includes/RGBtoHSV.h
- /Users/lukethayer/sources/BladeGen/src/RGBtoHSV.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/RGBtoHSV.cpp
 CMakeFiles/run.dir/src/lodepng.cpp.o
  ../includes/lodepng.h
- /Users/lukethayer/sources/BladeGen/src/lodepng.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/lodepng.cpp
 CMakeFiles/run.dir/src/main.cpp.o
  ../includes/BladeGen.h
  ../includes/Interpolation.h
  ../includes/RGBtoHSV.h
  ../includes/lodepng.h
  ../includes/pngDraw.h
- /Users/lukethayer/sources/BladeGen/src/main.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/main.cpp
 CMakeFiles/run.dir/src/pngDrawTools.cpp.o
  ../includes/Interpolation.h
  ../includes/RGBtoHSV.h
  ../includes/lodepng.h
  ../includes/pngDraw.h
- /Users/lukethayer/sources/BladeGen/src/pngDrawTools.cpp
+ /Users/lukethayer/sources/BladeGenV1/src/pngDrawTools.cpp
